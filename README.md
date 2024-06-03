@@ -29,6 +29,7 @@ ensure you installed this modules because if not you can encounter an error
 - `npm install express`: Contains the server-side code using Express.js and WebSocket.
 - `npm install axios `: Provides information about the project.
 
+## Path Guide
 ── DOGS\
     ├── node_modules\
     ├── public\
