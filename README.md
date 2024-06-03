@@ -21,7 +21,6 @@ The project consists of the following key files and directories:
 
 ## Getting Started
 
-
 Node.js and npm installed on your machine.
 ensure you installed this modules because if not you can encounter an error
 - `npm init -y`: Contains the HTML structure of the web application.
@@ -29,6 +28,19 @@ ensure you installed this modules because if not you can encounter an error
 - `app.js`: Contains the client-side JavaScript code.
 - `npm install express`: Contains the server-side code using Express.js and WebSocket.
 - `npm install axios `: Provides information about the project.
+
+── DOGS\
+    ├── node_modules\
+    ├── public\
+    │   ├── app.js
+    │   ├── index.html
+    │   ├── loop.mp4
+    │   ├── styles.css
+    │   ├── sample.mp4
+    ├── package-lock.json
+    ├── package.json
+    ├── README.md
+    └── server.js
 
 
 ### Running the Application
