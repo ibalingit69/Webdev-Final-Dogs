@@ -23,7 +23,7 @@ The project consists of the following key files and directories:
 
 
 Node.js and npm installed on your machine.
-ensure you installed
+ensure you installed this modules because if not you can encounter an error
 - `npm init -y`: Contains the HTML structure of the web application.
 - `npm install ws`: Includes the CSS styles for the web application.
 - `app.js`: Contains the client-side JavaScript code.
