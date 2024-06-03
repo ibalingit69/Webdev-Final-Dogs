@@ -21,13 +21,14 @@ The project consists of the following key files and directories:
 
 ## Getting Started
 
-### Prerequisites
-- Node.js and npm installed on your machine.
+
+Node.js and npm installed on your machine.
 ensure you installed
-npm init -y
-npm install ws
-npm install express
-npm install axios 
+- `npm init -y`: Contains the HTML structure of the web application.
+- `npm install ws`: Includes the CSS styles for the web application.
+- `app.js`: Contains the client-side JavaScript code.
+- `npm install express`: Contains the server-side code using Express.js and WebSocket.
+- `npm install axios `: Provides information about the project.
 
 
 ### Running the Application
