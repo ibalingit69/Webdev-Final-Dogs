@@ -29,21 +29,9 @@ ensure you installed this modules because if not you can encounter an error
 - `npm install express`: Contains the server-side code using Express.js and WebSocket.
 - `npm install axios `: Provides information about the project.
 
-## Path Guide
-── DOGS\
-    ├── node_modules\
-    ├── public\
-    │   ├── app.js
-    │   ├── index.html
-    │   ├── loop.mp4
-    │   ├── styles.css
-    │   ├── sample.mp4
-    ├── package-lock.json
-    ├── package.json
-    ├── README.md
-    └── server.js
 
-### File Descriptions
+
+### File Descriptions Guide Path
 
 - **node_modules**: Directory containing all the installed npm packages.
 - **public**: Directory for public assets and frontend code.
